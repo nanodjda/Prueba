@@ -14,7 +14,6 @@ public class modelo {
      private int valor1=28;
      private int valor2=69;
      private int total = sumar();
-     private int caca;
  
      public modelo(){}
  
