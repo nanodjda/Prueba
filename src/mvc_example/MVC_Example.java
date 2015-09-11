@@ -17,6 +17,7 @@ import controller.controlador;
      public static void main(String[] args) {
  
          //nuevas instancias de clase
+         //Github
          modelo modelo = new modelo();
          vista vista = new vista();        
          controlador controlador = new controlador( vista , modelo );
