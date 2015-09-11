@@ -17,6 +17,7 @@ public class controlador implements ActionListener{
 
      private vista vista;
      private modelo modelo;
+     private int number;
  
      //En el constructor inicializamos nuestros objetos y tambien
      //añadimos el ActionListener al boton "cmdsumar" de la VISTA
