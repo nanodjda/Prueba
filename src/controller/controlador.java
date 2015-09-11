@@ -11,7 +11,7 @@ import java.awt.event.ActionEvent;
  import view.vista;
  /**
   * @web http://jc-mouse.blogspot.com/
- * @author David
+ * @author David Diaz Aguilar
   */
 public class controlador implements ActionListener{
 
